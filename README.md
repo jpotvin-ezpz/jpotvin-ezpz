@@ -1,20 +1,7 @@
-### Hi there 👋
+### Hello
 
-<!--
-**jpotvin-ezpz/jpotvin-ezpz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Web Development Student and Personal Trainer. 
 
-Here are some ideas to get you started:
+I own Potvin Personal Training LLC and operate my business through RunEatLift.com and Trainerize
 
-- 🔭 I’m currently working on ...
-Traversy Media follow along web projects
-https://www.youtube.com/playlist?list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU
-
-- 🌱 I’m currently learning ...
-JavaScript, Responsive Web Design, Advanced CSS 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-  Web Developer career path
-- 📫 How to reach me: ...
-jpotvin@protonmail.com
-
-
+I'm currently learning web development and (as of 10.7.2020) am working through the ES6 module of FreeCodeCamp concurrently with javascript.info 
