@@ -4,7 +4,9 @@ I'm a Web Development Student and Personal Trainer.
 
 I own Potvin Personal Training LLC and operate my business through https://www.runeatlift.net/ and Trainerize
 
-I'm currently learning web development and (as of 10.7.2020) am working through the ES6 module of FreeCodeCamp concurrently with javascript.info 
+I'm currently learning web development working through FreeCodeCamp's Curriculum.
+
+100DaysOfCode Journal: https://github.com/jpotvin-ezpz/100-days-of-code
 
 Codepen: https://codepen.io/jpotvin
 
