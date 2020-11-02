@@ -6,7 +6,7 @@ I own Potvin Personal Training LLC and operate my business through https://www.r
 
 I'm currently learning web development working through FreeCodeCamp's Curriculum.
 
-100DaysOfCode Journal: https://github.com/jpotvin-ezpz/100-days-of-code
+100DaysOfCode Journal: https://github.com/jpotvin-ezpz/100-days-of-code/blob/master/log.md
 
 Codepen: https://codepen.io/jpotvin
 
